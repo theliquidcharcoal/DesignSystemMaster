@@ -37,7 +37,17 @@ The Storybook design system codifies existing UI components into a central, well
 - Typescript (the consumer apps don't use it)
 - Compete with more general design systems like ANT or Material.  
 
-## Install
+## Run current repo/project,
+
+```bash
+npm i
+```
+```bash
+npm run storybook
+```
+
+
+## Install new storybook in your existing project,
 
 ```bash
 npm install --save @storybook/design-system
